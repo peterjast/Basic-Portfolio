@@ -183,4 +183,41 @@ input[type=submit]:hover {
     margin-bottom: 86px;
 }
 
- 
+a:hover.ab {
+    background-color: transparent;
+    color: #4aaaa5;
+    text-decoration: underline;
+    
+}
+a:hover.port {
+    background-color: transparent;
+    color: #4aaaa5;
+    text-decoration: underline;
+}
+a:hover.co {
+    background-color: transparent;
+    color: #4aaaa5;
+    text-decoration: underline;
+}
+
+.ab {
+    padding-right: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: #777777;
+    border-right-width: 1px;
+}
+.port {
+    padding-right: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: #777777;
+    border-right-width: 1px;
+}
+.co {
+    padding-right: 10px;
+    padding-left: 10px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-right-width: 1px;
+}
