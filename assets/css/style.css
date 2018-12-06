@@ -242,6 +242,10 @@ a.comingsoon {
     text-decoration: none;
 }
 
+a:hover.comingsoon {
+    text-decoration: underline;
+}
+
 html, body {
     height: 100%;
     margin: 0;
