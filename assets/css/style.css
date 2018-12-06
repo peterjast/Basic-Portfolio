@@ -243,7 +243,9 @@ a.comingsoon {
 }
 
 a:hover.comingsoon {
-    text-decoration: underline;
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
 }
 
 html, body {
