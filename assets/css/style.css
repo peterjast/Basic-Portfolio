@@ -125,17 +125,120 @@ header {
   .soon { 
     position: relative;
     height: 220px;
-    width: 360px;
+    width: 254px;
     padding-top: 25px;
-    padding-left: 50px;
-    padding-right: 50px;
+    margin-left: 50px;
+    margin-right: 25px;
+  }
+
+  .soon11 {
+    position: relative;
+    height: 220px;
+    width: 254px;
+    padding-top: 25px;
+    margin-left: 24px;
+    margin-right: 25px;
+  }
+
+  .soon2 {
+    position: relative;
+    height: 220px;
+    width: 254px;
+    padding-top: 25px;
+    margin-left: 50px;
+    margin-right: 25px;
+  }
+
+  .soon22 {
+    position: relative;
+    height: 220px;
+    width: 254px;
+    padding-top: 25px;
+    margin-left: 24px;
+    margin-right: 50px;
+  }
+
+  .soon3 {
+    position: relative;
+    height: 220px;
+    width: 254px;
+    padding-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+  .soonbox3 {
+      padding-bottom: 25px;
   }
   
     .comingsoon {
         position: absolute;
-        width: 260px;
+        width: 254px;
         left: 310px;
         top: 376px;
+        color: #ffffff;
+        text-align: center;
+        font-size: large;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: #4aaaa5; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .comingsoon11 {
+        position: absolute;
+        width: 254px;
+        left: 617px;
+        top: 376px;
+        color: #ffffff;
+        text-align: center;
+        font-size: large;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: #4aaaa5; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .comingsoon2 {
+        position: absolute;
+        width: 254px;
+        left: 310px;
+        top: 598px;
+        color: #ffffff;
+        text-align: center;
+        font-size: large;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: #4aaaa5; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }   
+     .comingsoon22 {
+        position: absolute;
+        width: 254px;
+        left: 617px;
+        top: 598px;
+        color: #ffffff;
+        text-align: center;
+        font-size: large;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: #4aaaa5; 
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .comingsoon3 {
+        position: absolute;
+        width: 254px;
+        left: 310px;
+        top: 822px;
         color: #ffffff;
         text-align: center;
         font-size: large;
@@ -268,6 +371,47 @@ a:hover.comingsoon {
     background-color: #4aaaa5;
     color: #ffffff;
 }
+
+a.comingsoon2 { 
+    text-decoration: none;
+}
+
+a:hover.comingsoon2 {
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+a.comingsoon11 { 
+    text-decoration: none;
+}
+
+a:hover.comingsoon11 {
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+a.comingsoon22 { 
+    text-decoration: none;
+}
+
+a:hover.comingsoon22 {
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+a.comingsoon3 { 
+    text-decoration: none;
+}
+
+a:hover.comingsoon3 {
+    font-weight: bold;
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
 
 html, body {
     height: 100%;
