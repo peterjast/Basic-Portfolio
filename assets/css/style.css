@@ -135,16 +135,16 @@ header {
         position: absolute;
         width: 260px;
         left: 310px;
-        top: 368px;
+        top: 376px;
         color: #ffffff;
         text-align: center;
-        font-size: x-large;
+        font-size: large;
         padding-left: 40px;
         padding-right: 40px;
         padding-top: 14px;
         padding-bottom: 14px;
         background-color: #4aaaa5; 
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: Georgia, 'Times New Roman', Times, serif;
     }
 
  body { 
